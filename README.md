@@ -4,6 +4,7 @@ So, I built the hardware circuit and implemented the code as given in- https://m
 make the RGB LED strip glow with the average color of all the pixels of my laptop display. 
 To test the project code, Coldplay music videos were used they are some of the most colorful and have similar color shades in a particular frame which makes the output on the LED strip look quite stunning.
 
+The output is as seen below-
 <p align="center">
   <img src="images/Atlas.gif">
 </p>

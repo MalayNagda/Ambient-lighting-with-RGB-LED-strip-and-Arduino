@@ -1,2 +1,12 @@
 # Ambient lighting with RGB LED strip and Arduino
- The RGB LED strip displays the average color of all the pixels of the laptop display with a music video playing.
+Having made the [3x3x3 LED cube](), I wanted to further play with RGB LEDs instead of single colored LEDs and even more visually appealing. 
+So, I built the hardware circuit and implemented the code as given in- https://medium.com/@rjrshr/arduino-based-pc-ambient-lighting-bb370b0b64f1 to
+make the RGB LED strip glow with the average color of all the pixels of my laptop display. 
+To test the project code, Coldplay music videos were used they are some of the most colorful and have similar color shades in a particular frame which makes the output on the LED strip look quite stunning.
+
+<p align="center">
+  <img src="images/Atlas.gif">
+</p>
+<p align="center">
+  <img src="images/Speed_ofSound.gif">
+</p>
